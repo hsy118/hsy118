@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sengyup Han
-- 👀 I’m interested in JavaScript, Python, Vue.cli, Front-end
+- 👀 I’m interested in JavaScript, Python, Vue.cli, React, TypeScript Front-end
 - 🌱 I’m currently learning JavaScript, Vue.cli
 - 💞️ I’m looking to collaborate on Front-end field
 - 📫 How to reach me cnfen2931@gmail.com
